@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Khwezi Mining</title>
+<script>document.documentElement.dataset.theme=localStorage.getItem('khwezi-theme')||'dark';</script>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+{% if session.get('username') %}
+<aside class="sidebar">
+<a class="brand" href="{{ url_for('dashboard') }}">Khwezi Mining</a>
+<nav aria-label="Main navigation">
+{% for key, label in [('dashboard','Dashboard'),('workers','Worker Safety'),('incidents','Safety Incidents'),('equipment','Equipment'),('maintenance','Maintenance'),('risk','Risk Assessment'),('alerts','Alerts'),('analysis','Data Analysis'),('reports','Reports'),('users','Manage Users')] %}
+{% if allowed(key) %}<a class="{{ 'selected' if request.endpoint == key else '' }}" href="{{ url_for(key) }}">{{ label }}</a>{% endif %}
+{% endfor %}
+</nav>
+<div class="sidebar-bottom"><div>{{ session.get('role') }}</div><a href="{{ url_for('logout') }}">Sign out</a></div>
+</aside>
+{% else %}
+<div class="login-head"><span class="brand">Khwezi Mining</span></div>
+{% endif %}
+<div class="workspace">
+<header class="topbar">
+{% if session.get('username') %}<button class="menu-button" type="button" onclick="document.body.classList.toggle('menu-open')" aria-label="Open navigation">Menu</button><span>Mining Monitoring Dashboard</span>{% endif %}
+<button type="button" class="theme-button" onclick="let t=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=t;localStorage.setItem('khwezi-theme',t)" aria-label="Switch colour theme">Change theme</button>
+</header>
+<main>{% for message in get_flashed_messages() %}<p class="message" role="status">{{ message }}</p>{% endfor %}{% block content %}{% endblock %}</main>
+</div>
+</body>
+</html>

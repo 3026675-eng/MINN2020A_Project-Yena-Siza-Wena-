@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="login"><h1>Khwezi Mining</h1><p class="muted">Sign in</p>
+<form method="post" id="login-form">
+<label>Username<input id="username" name="username" autocomplete="username" required></label>
+<label>Password<input id="password" name="password" type="password" autocomplete="current-password" required></label>
+<button class="primary" type="submit">Sign in</button>
+</form>
+<h2>Demo accounts</h2>
+<div class="demo-grid">
+{% for role,user,pass in [('Administrator','admin','Admin@123'),('Safety Officer','safety','Safety@123'),('Mining Engineer','engineer','Mining@123'),('Maintenance Engineer','maint','Maint@123'),('Manager','manager','Manager@123')] %}
+<button type="button" class="demo-button" data-user="{{ user }}" data-password="{{ pass }}">{{ role }}</button>
+{% endfor %}
+</div>
+</section>
+<script>
+document.querySelectorAll('.demo-button').forEach(button => {
+  button.addEventListener('click', () => {
+    document.getElementById('username').value = button.dataset.user;
+    document.getElementById('password').value = button.dataset.password;
+    document.querySelectorAll('.demo-button').forEach(b => b.classList.remove('chosen'));
+    button.classList.add('chosen');
+  });
+});
+</script>
+{% endblock %}

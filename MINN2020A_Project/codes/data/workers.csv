@@ -1,0 +1,121 @@
+worker_id,department,job_role,shift,ppe_compliant,training_status,fatigue_level,safety_observations,near_misses,previous_incidents,likelihood,consequence
+W001,Underground Production,Loco Operator,Day,Yes,Valid,1,4,1,1,1,2
+W002,Engineering & Maintenance,Boilermaker,Night,Yes,Valid,5,0,1,1,3,2
+W003,Processing Plant,Crusher Operator,Night,No,Valid,6,0,2,0,5,5
+W004,Drilling & Blasting,Assistant,Day,Yes,Valid,6,5,0,0,1,4
+W005,Underground Production,Loco Operator,Night,Yes,Valid,2,4,0,0,2,4
+W006,Hauling & Logistics,Truck Driver,Day,Yes,Expired,3,5,1,1,3,1
+W007,Processing Plant,Lab Technician,Day,Yes,Valid,7,4,0,0,4,1
+W008,Hauling & Logistics,Dispatcher,Day,Yes,Valid,7,2,0,0,3,3
+W009,Engineering & Maintenance,Boilermaker,Night,Yes,Valid,7,6,1,0,2,1
+W010,Processing Plant,Plant Operator,Day,Yes,Valid,1,4,0,2,2,2
+W011,Underground Production,Team Leader,Day,Yes,Valid,4,3,0,2,3,5
+W012,Underground Production,Loco Operator,Day,Yes,Valid,1,4,0,0,3,5
+W013,Surface Mining,Excavator Operator,Night,Yes,Pending,5,4,0,0,3,3
+W014,Hauling & Logistics,Loader Operator,Night,Yes,Valid,6,6,3,0,3,1
+W015,Surface Mining,Truck Operator,Night,Yes,Valid,4,2,3,2,1,1
+W016,Underground Production,Miner,Day,Yes,Valid,4,4,2,0,3,3
+W017,Drilling & Blasting,Blaster,Day,Yes,Valid,3,1,0,0,3,1
+W018,Engineering & Maintenance,Boilermaker,Day,Yes,Valid,6,5,1,1,4,1
+W019,Drilling & Blasting,Blaster,Night,Yes,Valid,8,1,0,0,2,3
+W020,Drilling & Blasting,Blaster,Night,Yes,Valid,9,4,2,1,2,3
+W021,Engineering & Maintenance,Electrician,Night,Yes,Expired,6,6,1,3,4,3
+W022,Surface Mining,Dozer Operator,Day,Yes,Valid,9,2,1,0,3,3
+W023,Surface Mining,Excavator Operator,Day,Yes,Valid,4,6,0,1,1,2
+W024,Processing Plant,Plant Operator,Day,Yes,Valid,7,2,0,0,2,3
+W025,Engineering & Maintenance,Electrician,Night,Yes,Valid,5,4,4,2,1,2
+W026,Surface Mining,Truck Operator,Day,No,Valid,9,1,1,0,3,3
+W027,Processing Plant,Crusher Operator,Day,No,Valid,3,5,2,2,5,2
+W028,Surface Mining,Truck Operator,Day,Yes,Valid,6,4,3,0,3,4
+W029,Surface Mining,Truck Operator,Day,Yes,Valid,4,5,0,0,3,1
+W030,Underground Production,Loco Operator,Day,Yes,Valid,3,4,0,1,2,4
+W031,Drilling & Blasting,Assistant,Day,Yes,Valid,7,2,0,1,2,1
+W032,Underground Production,Loco Operator,Day,Yes,Valid,2,4,2,0,1,5
+W033,Processing Plant,Plant Operator,Day,No,Expired,6,3,2,0,5,3
+W034,Engineering & Maintenance,Electrician,Day,Yes,Valid,4,4,2,2,2,4
+W035,Processing Plant,Crusher Operator,Day,Yes,Expired,5,5,1,0,3,1
+W036,Underground Production,Loco Operator,Day,Yes,Pending,6,0,1,1,3,2
+W037,Processing Plant,Lab Technician,Day,Yes,Pending,6,0,0,1,3,5
+W038,Surface Mining,Truck Operator,Day,Yes,Valid,5,4,0,0,1,3
+W039,Surface Mining,Excavator Operator,Night,Yes,Expired,3,4,0,0,3,5
+W040,Underground Production,Loco Operator,Day,Yes,Valid,2,6,0,0,1,5
+W041,Surface Mining,Excavator Operator,Day,Yes,Expired,6,0,0,1,1,5
+W042,Processing Plant,Lab Technician,Day,Yes,Valid,6,6,1,0,5,1
+W043,Underground Production,Miner,Night,Yes,Valid,7,4,0,2,2,4
+W044,Processing Plant,Crusher Operator,Night,Yes,Valid,7,2,2,0,2,1
+W045,Engineering & Maintenance,Electrician,Night,Yes,Expired,6,2,0,2,3,3
+W046,Surface Mining,Truck Operator,Day,Yes,Valid,6,2,1,1,2,2
+W047,Surface Mining,Excavator Operator,Day,No,Expired,3,6,1,0,1,4
+W048,Surface Mining,Dozer Operator,Day,Yes,Valid,6,5,0,0,2,5
+W049,Processing Plant,Plant Operator,Day,Yes,Valid,5,5,2,0,4,2
+W050,Underground Production,Loco Operator,Day,Yes,Valid,2,1,1,0,2,2
+W051,Underground Production,Team Leader,Day,Yes,Valid,5,4,1,0,3,2
+W052,Underground Production,Loco Operator,Day,Yes,Valid,6,3,1,0,2,2
+W053,Surface Mining,Excavator Operator,Night,Yes,Valid,5,2,0,1,4,1
+W054,Underground Production,Miner,Day,Yes,Expired,8,6,0,1,4,3
+W055,Processing Plant,Lab Technician,Night,No,Valid,6,3,0,0,3,1
+W056,Underground Production,Team Leader,Night,No,Pending,4,4,1,0,4,2
+W057,Underground Production,Loco Operator,Night,Yes,Valid,6,6,0,2,2,3
+W058,Drilling & Blasting,Assistant,Day,Yes,Valid,6,4,0,1,4,3
+W059,Processing Plant,Lab Technician,Day,Yes,Valid,6,2,3,0,4,3
+W060,Surface Mining,Truck Operator,Day,Yes,Valid,7,5,0,1,2,2
+W061,Drilling & Blasting,Blaster,Day,Yes,Valid,6,2,0,0,2,3
+W062,Drilling & Blasting,Assistant,Day,Yes,Valid,4,6,0,0,2,5
+W063,Engineering & Maintenance,Boilermaker,Day,No,Valid,4,1,1,2,4,2
+W064,Processing Plant,Crusher Operator,Day,Yes,Valid,3,4,1,0,2,2
+W065,Engineering & Maintenance,Fitter,Night,Yes,Valid,6,3,0,2,3,3
+W066,Hauling & Logistics,Loader Operator,Day,Yes,Valid,5,2,0,0,5,3
+W067,Drilling & Blasting,Driller,Day,No,Valid,1,4,1,0,1,2
+W068,Processing Plant,Plant Operator,Day,Yes,Valid,9,6,2,1,4,5
+W069,Hauling & Logistics,Dispatcher,Night,Yes,Valid,5,5,2,2,1,3
+W070,Processing Plant,Plant Operator,Day,Yes,Valid,5,4,2,0,1,2
+W071,Underground Production,Team Leader,Night,Yes,Valid,6,3,0,1,3,5
+W072,Drilling & Blasting,Blaster,Day,Yes,Valid,2,4,0,0,2,5
+W073,Underground Production,Loco Operator,Day,Yes,Valid,2,1,0,2,3,2
+W074,Surface Mining,Excavator Operator,Night,Yes,Valid,7,4,0,0,4,3
+W075,Surface Mining,Excavator Operator,Day,Yes,Valid,5,1,0,1,1,1
+W076,Underground Production,Miner,Day,Yes,Expired,6,6,2,0,2,2
+W077,Drilling & Blasting,Assistant,Night,Yes,Valid,3,6,4,1,5,3
+W078,Hauling & Logistics,Dispatcher,Day,Yes,Valid,7,5,0,2,1,3
+W079,Underground Production,Team Leader,Night,Yes,Valid,3,1,1,0,3,3
+W080,Surface Mining,Dozer Operator,Day,Yes,Valid,4,1,1,0,2,1
+W081,Surface Mining,Dozer Operator,Day,Yes,Pending,3,4,2,1,1,2
+W082,Engineering & Maintenance,Electrician,Day,Yes,Valid,3,1,0,0,3,3
+W083,Hauling & Logistics,Loader Operator,Day,Yes,Valid,2,2,0,0,3,2
+W084,Surface Mining,Dozer Operator,Day,Yes,Valid,5,0,4,0,3,3
+W085,Engineering & Maintenance,Boilermaker,Night,No,Pending,4,3,0,0,2,5
+W086,Processing Plant,Crusher Operator,Day,Yes,Pending,3,3,1,0,2,2
+W087,Processing Plant,Crusher Operator,Day,Yes,Valid,5,6,0,0,1,2
+W088,Processing Plant,Plant Operator,Day,Yes,Valid,2,1,4,0,4,4
+W089,Hauling & Logistics,Truck Driver,Night,Yes,Valid,6,5,1,0,2,4
+W090,Drilling & Blasting,Blaster,Night,Yes,Pending,8,1,0,0,3,3
+W091,Engineering & Maintenance,Electrician,Night,Yes,Valid,4,4,0,0,3,1
+W092,Processing Plant,Lab Technician,Day,Yes,Valid,8,6,3,0,2,2
+W093,Engineering & Maintenance,Boilermaker,Night,Yes,Valid,4,3,0,2,5,4
+W094,Surface Mining,Excavator Operator,Night,Yes,Expired,4,0,0,0,2,3
+W095,Drilling & Blasting,Assistant,Day,Yes,Valid,5,1,0,0,3,3
+W096,Surface Mining,Truck Operator,Day,Yes,Expired,4,0,3,1,4,1
+W097,Processing Plant,Lab Technician,Day,Yes,Valid,2,1,0,0,4,1
+W098,Underground Production,Loco Operator,Day,Yes,Valid,6,1,0,1,4,1
+W099,Drilling & Blasting,Driller,Night,Yes,Valid,5,0,0,0,2,4
+W100,Surface Mining,Truck Operator,Day,Yes,Valid,4,2,2,0,5,1
+W101,Underground Production,Loco Operator,Day,Yes,Valid,5,4,2,0,4,1
+W102,Engineering & Maintenance,Fitter,Night,Yes,Valid,5,3,0,1,2,2
+W103,Engineering & Maintenance,Boilermaker,Day,Yes,Valid,7,0,2,0,2,2
+W104,Hauling & Logistics,Loader Operator,Night,Yes,Valid,4,5,1,0,2,2
+W105,Surface Mining,Dozer Operator,Day,Yes,Valid,2,0,2,0,2,3
+W106,Surface Mining,Excavator Operator,Day,Yes,Valid,7,5,0,3,2,2
+W107,Engineering & Maintenance,Boilermaker,Day,Yes,Valid,3,0,0,0,2,4
+W108,Processing Plant,Plant Operator,Night,Yes,Valid,7,5,1,0,5,3
+W109,Underground Production,Miner,Day,No,Expired,9,5,0,0,5,4
+W110,Hauling & Logistics,Dispatcher,Day,Yes,Valid,9,5,2,0,1,4
+W111,Hauling & Logistics,Dispatcher,Day,Yes,Valid,6,4,1,0,5,1
+W112,Processing Plant,Plant Operator,Day,Yes,Valid,6,2,4,0,1,4
+W113,Processing Plant,Plant Operator,Day,Yes,Valid,6,3,4,2,2,4
+W114,Underground Production,Miner,Day,Yes,Valid,7,4,1,1,1,3
+W115,Underground Production,Miner,Day,Yes,Valid,1,3,0,1,4,2
+W116,Surface Mining,Truck Operator,Day,No,Valid,3,4,4,1,1,2
+W117,Engineering & Maintenance,Boilermaker,Day,No,Expired,1,1,0,0,2,2
+W118,Engineering & Maintenance,Electrician,Night,No,Expired,4,0,1,0,1,2
+W119,Underground Production,Miner,Night,Yes,Valid,6,4,0,3,1,4
+W120,Surface Mining,Dozer Operator,Night,Yes,Valid,5,4,2,0,2,2

@@ -1,0 +1,222 @@
+incident_id,date,time,shift,location,department,incident_type,severity,injury_status,lost_time_injury,cause,corrective_action,status
+INC-2025-0001,2025-10-18,04:45,Night,Haul Road,Underground Production,Electrical,Minor,No Injury,No,Unsafe ground conditions,Barricading / signage,Closed
+INC-2025-0002,2025-10-19,04:30,Night,Shaft 1 - Level 12,Surface Mining,Struck by Object,Minor,No Injury,No,Inadequate supervision,Equipment repair,Closed
+INC-2025-0003,2025-10-22,22:00,Night,Pit South,Hauling & Logistics,Slip/Trip/Fall,Minor,First Aid,No,Poor lighting/visibility,Equipment repair,Closed
+INC-2025-0004,2025-10-23,22:15,Night,Workshop,Engineering & Maintenance,Dust/Noise Exposure,Minor,First Aid,No,Fatigue,Supervision increased,Closed
+INC-2025-0005,2025-10-28,15:15,Day,Pit South,Hauling & Logistics,Fall of Ground,Critical,Serious Injury,Yes,PPE not worn,Barricading / signage,Closed
+INC-2025-0006,2025-10-28,16:30,Day,Processing Plant,Processing Plant,Fall of Ground,Minor,First Aid,No,Unsafe ground conditions,Pending,Closed
+INC-2025-0007,2025-10-28,19:15,Night,Workshop,Drilling & Blasting,Vehicle Collision,Minor,No Injury,No,Inadequate training,Retraining,Closed
+INC-2025-0008,2025-11-03,03:15,Night,Shaft 2 - Level 8,Drilling & Blasting,Electrical,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Barricading / signage,Closed
+INC-2025-0009,2025-11-05,02:30,Night,Workshop,Hauling & Logistics,Struck by Object,Minor,First Aid,No,Inadequate supervision,Supervision increased,Closed
+INC-2025-0010,2025-11-05,07:15,Day,Workshop,Underground Production,Slip/Trip/Fall,Minor,First Aid,No,Equipment failure,Supervision increased,Closed
+INC-2025-0011,2025-11-06,15:30,Day,Shaft 1 - Level 12,Surface Mining,Struck by Object,Moderate,Serious Injury,Yes,Procedure not followed,Pending,Closed
+INC-2025-0012,2025-11-10,10:00,Day,Shaft 2 - Level 8,Engineering & Maintenance,Fall of Ground,Moderate,Medical Treatment,Yes,Fatigue,Procedure revision,Closed
+INC-2025-0013,2025-11-11,18:30,Night,Workshop,Processing Plant,Fall of Ground,Major,Medical Treatment,Yes,Unsafe ground conditions,Barricading / signage,Closed
+INC-2025-0014,2025-11-14,22:00,Night,Processing Plant,Hauling & Logistics,Fire/Explosion,Moderate,First Aid,No,PPE not worn,Supervision increased,Closed
+INC-2025-0015,2025-11-14,22:45,Night,Pit South,Surface Mining,Vehicle Collision,Minor,First Aid,No,Poor lighting/visibility,Pending,Closed
+INC-2025-0016,2025-11-16,00:15,Night,Pit South,Hauling & Logistics,Struck by Object,Minor,First Aid,No,Unsafe ground conditions,Retraining,Closed
+INC-2025-0017,2025-11-17,20:45,Night,Crusher Station,Surface Mining,Fire/Explosion,Moderate,Serious Injury,No,Poor housekeeping,Barricading / signage,Closed
+INC-2025-0018,2025-11-19,22:00,Night,Shaft 1 - Level 12,Drilling & Blasting,Struck by Object,Moderate,Medical Treatment,Yes,Inadequate supervision,Pending,Closed
+INC-2025-0019,2025-11-22,02:15,Night,Crusher Station,Surface Mining,Vehicle Collision,Minor,First Aid,No,Equipment failure,Barricading / signage,Closed
+INC-2025-0020,2025-11-23,00:00,Night,Processing Plant,Hauling & Logistics,Slip/Trip/Fall,Moderate,First Aid,No,Inadequate supervision,Pending,Closed
+INC-2025-0021,2025-11-27,09:15,Day,Processing Plant,Processing Plant,Electrical,Minor,Medical Treatment,Yes,Poor housekeeping,Pending,Closed
+INC-2025-0022,2025-11-27,10:45,Day,Crusher Station,Engineering & Maintenance,Vehicle Collision,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Pending,Closed
+INC-2025-0023,2025-11-29,23:00,Night,Crusher Station,Drilling & Blasting,Fall of Ground,Minor,No Injury,No,Unsafe ground conditions,Pending,Closed
+INC-2025-0024,2025-11-30,05:30,Night,Pit South,Engineering & Maintenance,Struck by Object,Major,Serious Injury,No,Equipment failure,Retraining,Closed
+INC-2025-0025,2025-11-30,10:30,Day,Processing Plant,Drilling & Blasting,Dust/Noise Exposure,Minor,No Injury,No,Poor lighting/visibility,Procedure revision,Closed
+INC-2025-0026,2025-12-03,08:00,Day,Shaft 1 - Level 12,Engineering & Maintenance,Struck by Object,Minor,No Injury,No,Inadequate training,Retraining,Closed
+INC-2025-0027,2025-12-06,08:15,Day,Shaft 1 - Level 12,Surface Mining,Fall of Ground,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Equipment repair,Closed
+INC-2025-0028,2025-12-08,06:00,Day,Pit North,Hauling & Logistics,Slip/Trip/Fall,Minor,No Injury,No,Inadequate training,Retraining,Closed
+INC-2025-0029,2025-12-08,22:15,Night,Crusher Station,Surface Mining,Electrical,Minor,No Injury,No,Poor lighting/visibility,Equipment repair,Closed
+INC-2025-0030,2025-12-11,12:30,Day,Pit North,Processing Plant,Vehicle Collision,Minor,No Injury,No,Procedure not followed,Pending,Closed
+INC-2025-0031,2025-12-17,09:30,Day,Shaft 2 - Level 8,Processing Plant,Fall of Ground,Moderate,First Aid,No,Poor lighting/visibility,Equipment repair,Closed
+INC-2025-0032,2025-12-19,05:00,Night,Workshop,Processing Plant,Slip/Trip/Fall,Minor,No Injury,No,Fatigue,Procedure revision,Closed
+INC-2025-0033,2025-12-23,10:45,Day,Workshop,Processing Plant,Vehicle Collision,Minor,First Aid,No,Inadequate training,Retraining,Closed
+INC-2025-0034,2025-12-24,11:00,Day,Workshop,Drilling & Blasting,Manual Handling,Minor,First Aid,No,Inadequate supervision,Barricading / signage,Closed
+INC-2025-0035,2025-12-25,11:30,Day,Processing Plant,Processing Plant,Struck by Object,Moderate,Serious Injury,Yes,Poor lighting/visibility,Pending,Closed
+INC-2025-0036,2025-12-27,12:00,Day,Processing Plant,Underground Production,Electrical,Minor,No Injury,No,PPE not worn,Supervision increased,Closed
+INC-2025-0037,2025-12-27,17:15,Day,Haul Road,Surface Mining,Electrical,Minor,First Aid,No,Poor housekeeping,Barricading / signage,Closed
+INC-2025-0038,2025-12-27,21:30,Night,Crusher Station,Underground Production,Vehicle Collision,Minor,No Injury,No,Procedure not followed,Supervision increased,Closed
+INC-2025-0039,2025-12-31,16:15,Day,Shaft 1 - Level 12,Hauling & Logistics,Struck by Object,Major,Serious Injury,Yes,Poor housekeeping,Procedure revision,Closed
+INC-2026-0001,2026-01-01,12:30,Day,Pit North,Processing Plant,Electrical,Minor,First Aid,No,PPE not worn,Equipment repair,Closed
+INC-2026-0002,2026-01-06,12:00,Day,Crusher Station,Drilling & Blasting,Slip/Trip/Fall,Minor,First Aid,No,Fatigue,Procedure revision,Closed
+INC-2026-0003,2026-01-08,02:00,Night,Pit South,Surface Mining,Fall of Ground,Minor,No Injury,No,Poor housekeeping,Equipment repair,Closed
+INC-2026-0004,2026-01-10,03:00,Night,Shaft 1 - Level 12,Processing Plant,Struck by Object,Minor,First Aid,No,Equipment failure,Pending,Closed
+INC-2026-0005,2026-01-14,04:45,Night,Processing Plant,Surface Mining,Electrical,Moderate,Medical Treatment,Yes,Procedure not followed,Retraining,Closed
+INC-2026-0006,2026-01-14,15:30,Day,Workshop,Hauling & Logistics,Fall of Ground,Minor,First Aid,No,Poor housekeeping,Equipment repair,Closed
+INC-2026-0007,2026-01-15,10:15,Day,Processing Plant,Underground Production,Struck by Object,Major,Medical Treatment,No,Poor lighting/visibility,Supervision increased,Closed
+INC-2026-0008,2026-01-15,21:30,Night,Pit North,Processing Plant,Struck by Object,Minor,No Injury,No,PPE not worn,Barricading / signage,Closed
+INC-2026-0009,2026-01-19,06:00,Day,Haul Road,Underground Production,Equipment-Related,Minor,First Aid,No,Poor lighting/visibility,Supervision increased,Closed
+INC-2026-0010,2026-01-19,16:30,Day,Shaft 2 - Level 8,Engineering & Maintenance,Fall of Ground,Minor,First Aid,No,Unsafe ground conditions,Retraining,Closed
+INC-2026-0011,2026-01-21,22:45,Night,Crusher Station,Hauling & Logistics,Manual Handling,Minor,Medical Treatment,Yes,Poor lighting/visibility,Barricading / signage,Closed
+INC-2026-0012,2026-01-22,21:45,Night,Pit South,Drilling & Blasting,Struck by Object,Minor,First Aid,No,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0013,2026-01-23,12:15,Day,Crusher Station,Drilling & Blasting,Manual Handling,Minor,No Injury,No,Unsafe ground conditions,Pending,Closed
+INC-2026-0014,2026-01-24,02:15,Night,Shaft 1 - Level 12,Engineering & Maintenance,Struck by Object,Minor,First Aid,No,Unsafe ground conditions,Retraining,Closed
+INC-2026-0015,2026-01-24,19:45,Night,Workshop,Hauling & Logistics,Struck by Object,Minor,First Aid,No,Poor lighting/visibility,Retraining,Closed
+INC-2026-0016,2026-01-24,20:00,Night,Crusher Station,Underground Production,Manual Handling,Minor,No Injury,No,PPE not worn,Barricading / signage,Closed
+INC-2026-0017,2026-01-29,13:30,Day,Pit North,Drilling & Blasting,Dust/Noise Exposure,Moderate,First Aid,No,Equipment failure,Supervision increased,Closed
+INC-2026-0018,2026-02-02,01:00,Night,Pit North,Surface Mining,Equipment-Related,Minor,No Injury,No,Unsafe ground conditions,Barricading / signage,Closed
+INC-2026-0019,2026-02-02,14:45,Day,Shaft 2 - Level 8,Underground Production,Struck by Object,Minor,No Injury,No,Procedure not followed,Barricading / signage,Closed
+INC-2026-0020,2026-02-04,07:30,Day,Pit South,Underground Production,Slip/Trip/Fall,Minor,Medical Treatment,Yes,Procedure not followed,Retraining,Closed
+INC-2026-0021,2026-02-04,10:00,Day,Processing Plant,Surface Mining,Dust/Noise Exposure,Moderate,Medical Treatment,No,Inadequate supervision,Pending,Closed
+INC-2026-0022,2026-02-04,22:15,Night,Pit South,Drilling & Blasting,Chemical Exposure,Minor,First Aid,No,Inadequate training,Procedure revision,Closed
+INC-2026-0023,2026-02-05,19:45,Night,Shaft 2 - Level 8,Processing Plant,Manual Handling,Major,Medical Treatment,Yes,Unsafe ground conditions,Pending,Closed
+INC-2026-0024,2026-02-06,03:00,Night,Pit North,Processing Plant,Chemical Exposure,Moderate,Medical Treatment,Yes,PPE not worn,Barricading / signage,Closed
+INC-2026-0025,2026-02-06,17:45,Day,Shaft 2 - Level 8,Underground Production,Vehicle Collision,Minor,No Injury,No,Inadequate training,Barricading / signage,Closed
+INC-2026-0026,2026-02-07,17:15,Day,Workshop,Engineering & Maintenance,Chemical Exposure,Minor,First Aid,No,Equipment failure,Pending,Closed
+INC-2026-0027,2026-02-08,05:00,Night,Shaft 1 - Level 12,Surface Mining,Equipment-Related,Critical,Serious Injury,Yes,Poor housekeeping,Procedure revision,Closed
+INC-2026-0028,2026-02-08,08:00,Day,Shaft 2 - Level 8,Drilling & Blasting,Manual Handling,Minor,No Injury,No,Procedure not followed,Barricading / signage,Closed
+INC-2026-0029,2026-02-08,17:30,Day,Processing Plant,Processing Plant,Slip/Trip/Fall,Moderate,Medical Treatment,Yes,Procedure not followed,Procedure revision,Closed
+INC-2026-0030,2026-02-09,17:15,Day,Pit South,Underground Production,Fire/Explosion,Moderate,Serious Injury,Yes,Poor housekeeping,Pending,Closed
+INC-2026-0031,2026-02-09,20:45,Night,Pit North,Underground Production,Fall of Ground,Moderate,Medical Treatment,Yes,Poor housekeeping,Retraining,Closed
+INC-2026-0032,2026-02-09,21:15,Night,Pit North,Engineering & Maintenance,Fire/Explosion,Minor,First Aid,No,Fatigue,Supervision increased,Closed
+INC-2026-0033,2026-02-11,05:45,Night,Crusher Station,Underground Production,Electrical,Minor,Medical Treatment,Yes,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0034,2026-02-15,23:00,Night,Workshop,Drilling & Blasting,Dust/Noise Exposure,Moderate,Serious Injury,Yes,Inadequate supervision,Supervision increased,Closed
+INC-2026-0035,2026-02-15,23:30,Night,Crusher Station,Surface Mining,Equipment-Related,Minor,First Aid,No,Equipment failure,Equipment repair,Closed
+INC-2026-0036,2026-02-19,03:30,Night,Processing Plant,Drilling & Blasting,Electrical,Minor,First Aid,No,Inadequate training,Procedure revision,Closed
+INC-2026-0037,2026-02-19,06:15,Day,Pit South,Surface Mining,Manual Handling,Minor,No Injury,No,Inadequate supervision,Supervision increased,Closed
+INC-2026-0038,2026-02-19,17:15,Day,Shaft 2 - Level 8,Processing Plant,Chemical Exposure,Minor,No Injury,No,Procedure not followed,Pending,Closed
+INC-2026-0039,2026-02-24,06:15,Day,Shaft 1 - Level 12,Surface Mining,Slip/Trip/Fall,Moderate,Serious Injury,No,Inadequate training,Pending,Closed
+INC-2026-0040,2026-02-24,16:00,Day,Workshop,Engineering & Maintenance,Dust/Noise Exposure,Minor,First Aid,No,Poor lighting/visibility,Retraining,Closed
+INC-2026-0041,2026-02-25,23:30,Night,Processing Plant,Engineering & Maintenance,Equipment-Related,Minor,No Injury,No,Unsafe ground conditions,Retraining,Closed
+INC-2026-0042,2026-02-26,13:45,Day,Pit South,Processing Plant,Manual Handling,Minor,Medical Treatment,Yes,PPE not worn,Equipment repair,Closed
+INC-2026-0043,2026-02-26,15:30,Day,Processing Plant,Processing Plant,Vehicle Collision,Minor,First Aid,No,Procedure not followed,Barricading / signage,Closed
+INC-2026-0044,2026-02-28,11:15,Day,Processing Plant,Engineering & Maintenance,Slip/Trip/Fall,Major,Serious Injury,Yes,Inadequate supervision,Retraining,Closed
+INC-2026-0045,2026-03-02,05:30,Night,Crusher Station,Surface Mining,Fall of Ground,Minor,First Aid,No,PPE not worn,Pending,Closed
+INC-2026-0046,2026-03-02,19:45,Night,Shaft 2 - Level 8,Surface Mining,Dust/Noise Exposure,Minor,First Aid,No,Equipment failure,Procedure revision,Closed
+INC-2026-0047,2026-03-03,05:45,Night,Pit South,Surface Mining,Chemical Exposure,Minor,Medical Treatment,No,Unsafe ground conditions,Barricading / signage,Closed
+INC-2026-0048,2026-03-04,20:30,Night,Pit North,Hauling & Logistics,Equipment-Related,Minor,First Aid,No,Inadequate supervision,Barricading / signage,Closed
+INC-2026-0049,2026-03-07,18:15,Night,Shaft 1 - Level 12,Processing Plant,Vehicle Collision,Moderate,First Aid,No,Poor housekeeping,Procedure revision,Closed
+INC-2026-0050,2026-03-08,16:00,Day,Crusher Station,Hauling & Logistics,Fire/Explosion,Moderate,Serious Injury,Yes,Inadequate training,Procedure revision,Closed
+INC-2026-0051,2026-03-09,19:00,Night,Crusher Station,Engineering & Maintenance,Vehicle Collision,Minor,No Injury,No,Procedure not followed,Retraining,Closed
+INC-2026-0052,2026-03-16,00:15,Night,Pit North,Processing Plant,Vehicle Collision,Minor,No Injury,No,Poor lighting/visibility,Equipment repair,Closed
+INC-2026-0053,2026-03-19,05:15,Night,Haul Road,Surface Mining,Slip/Trip/Fall,Minor,Medical Treatment,No,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0054,2026-03-21,22:15,Night,Workshop,Engineering & Maintenance,Equipment-Related,Major,Medical Treatment,No,Unsafe ground conditions,Pending,Closed
+INC-2026-0055,2026-03-22,22:30,Night,Haul Road,Underground Production,Vehicle Collision,Moderate,Medical Treatment,Yes,Fatigue,Barricading / signage,Closed
+INC-2026-0056,2026-03-24,14:00,Day,Processing Plant,Engineering & Maintenance,Chemical Exposure,Minor,No Injury,No,Poor lighting/visibility,Pending,Closed
+INC-2026-0057,2026-03-25,04:15,Night,Pit North,Drilling & Blasting,Fall of Ground,Minor,First Aid,No,Poor housekeeping,Procedure revision,Closed
+INC-2026-0058,2026-03-25,23:45,Night,Pit South,Processing Plant,Vehicle Collision,Minor,First Aid,No,Inadequate supervision,Retraining,Closed
+INC-2026-0059,2026-03-27,01:15,Night,Processing Plant,Engineering & Maintenance,Vehicle Collision,Minor,First Aid,No,Equipment failure,Barricading / signage,Closed
+INC-2026-0060,2026-03-28,23:45,Night,Shaft 2 - Level 8,Engineering & Maintenance,Vehicle Collision,Minor,First Aid,No,Inadequate training,Barricading / signage,Closed
+INC-2026-0061,2026-04-01,03:30,Night,Workshop,Surface Mining,Struck by Object,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Pending,Closed
+INC-2026-0062,2026-04-03,18:15,Night,Processing Plant,Engineering & Maintenance,Manual Handling,Minor,First Aid,No,Inadequate supervision,Barricading / signage,Closed
+INC-2026-0063,2026-04-04,10:00,Day,Crusher Station,Surface Mining,Vehicle Collision,Moderate,Medical Treatment,Yes,Inadequate supervision,Retraining,Closed
+INC-2026-0064,2026-04-06,21:30,Night,Pit North,Engineering & Maintenance,Dust/Noise Exposure,Moderate,Medical Treatment,Yes,Equipment failure,Pending,Closed
+INC-2026-0065,2026-04-07,07:15,Day,Haul Road,Drilling & Blasting,Fire/Explosion,Minor,First Aid,No,Inadequate supervision,Equipment repair,Closed
+INC-2026-0066,2026-04-08,19:45,Night,Shaft 2 - Level 8,Hauling & Logistics,Electrical,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Procedure revision,Closed
+INC-2026-0067,2026-04-09,06:30,Day,Shaft 2 - Level 8,Underground Production,Fire/Explosion,Minor,First Aid,No,Fatigue,Pending,Closed
+INC-2026-0068,2026-04-10,10:15,Day,Shaft 2 - Level 8,Drilling & Blasting,Vehicle Collision,Minor,No Injury,No,Fatigue,Supervision increased,Closed
+INC-2026-0069,2026-04-10,14:00,Day,Crusher Station,Drilling & Blasting,Manual Handling,Major,Serious Injury,No,Equipment failure,Barricading / signage,Closed
+INC-2026-0070,2026-04-10,14:30,Day,Processing Plant,Surface Mining,Dust/Noise Exposure,Minor,First Aid,No,PPE not worn,Retraining,Closed
+INC-2026-0071,2026-04-12,19:00,Night,Processing Plant,Underground Production,Slip/Trip/Fall,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0072,2026-04-14,23:30,Night,Shaft 1 - Level 12,Engineering & Maintenance,Chemical Exposure,Minor,Medical Treatment,Yes,Inadequate training,Pending,Closed
+INC-2026-0073,2026-04-15,12:00,Day,Processing Plant,Underground Production,Vehicle Collision,Minor,Medical Treatment,No,Equipment failure,Pending,Closed
+INC-2026-0074,2026-04-17,07:00,Day,Pit South,Engineering & Maintenance,Equipment-Related,Moderate,Medical Treatment,Yes,PPE not worn,Procedure revision,Closed
+INC-2026-0075,2026-04-18,22:00,Night,Crusher Station,Surface Mining,Chemical Exposure,Minor,Medical Treatment,Yes,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0076,2026-04-18,23:00,Night,Shaft 1 - Level 12,Underground Production,Struck by Object,Minor,First Aid,No,PPE not worn,Equipment repair,Closed
+INC-2026-0077,2026-04-19,19:00,Night,Shaft 2 - Level 8,Surface Mining,Equipment-Related,Major,Serious Injury,Yes,PPE not worn,Barricading / signage,Closed
+INC-2026-0078,2026-04-20,02:30,Night,Shaft 1 - Level 12,Drilling & Blasting,Slip/Trip/Fall,Minor,No Injury,No,Poor lighting/visibility,Pending,Closed
+INC-2026-0079,2026-04-21,20:30,Night,Shaft 2 - Level 8,Drilling & Blasting,Fire/Explosion,Major,Medical Treatment,Yes,PPE not worn,Barricading / signage,Closed
+INC-2026-0080,2026-04-25,02:45,Night,Crusher Station,Engineering & Maintenance,Equipment-Related,Minor,First Aid,No,Procedure not followed,Procedure revision,Closed
+INC-2026-0081,2026-04-25,21:15,Night,Pit South,Underground Production,Slip/Trip/Fall,Minor,First Aid,No,Poor lighting/visibility,Procedure revision,Closed
+INC-2026-0082,2026-04-25,23:30,Night,Shaft 2 - Level 8,Underground Production,Fall of Ground,Major,Medical Treatment,Yes,Equipment failure,Procedure revision,Closed
+INC-2026-0083,2026-04-26,09:30,Day,Shaft 1 - Level 12,Engineering & Maintenance,Vehicle Collision,Moderate,Serious Injury,Yes,Fatigue,Retraining,Closed
+INC-2026-0084,2026-04-26,12:15,Day,Shaft 1 - Level 12,Underground Production,Electrical,Minor,First Aid,No,Poor housekeeping,Pending,Closed
+INC-2026-0085,2026-04-27,01:00,Night,Shaft 1 - Level 12,Hauling & Logistics,Fall of Ground,Minor,No Injury,No,Fatigue,Supervision increased,Closed
+INC-2026-0086,2026-04-28,22:30,Night,Shaft 1 - Level 12,Hauling & Logistics,Manual Handling,Critical,Serious Injury,No,Inadequate training,Procedure revision,Closed
+INC-2026-0087,2026-04-28,22:45,Night,Crusher Station,Surface Mining,Equipment-Related,Moderate,Medical Treatment,Yes,Equipment failure,Supervision increased,Closed
+INC-2026-0088,2026-05-01,08:30,Day,Workshop,Underground Production,Manual Handling,Minor,No Injury,No,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0089,2026-05-02,14:45,Day,Haul Road,Engineering & Maintenance,Fall of Ground,Major,Serious Injury,No,Inadequate training,Pending,Closed
+INC-2026-0090,2026-05-04,10:00,Day,Workshop,Underground Production,Dust/Noise Exposure,Minor,Medical Treatment,Yes,Inadequate training,Procedure revision,Closed
+INC-2026-0091,2026-05-04,20:15,Night,Workshop,Hauling & Logistics,Chemical Exposure,Critical,Serious Injury,Yes,Equipment failure,Retraining,Closed
+INC-2026-0092,2026-05-10,22:15,Night,Haul Road,Underground Production,Fall of Ground,Minor,First Aid,No,Poor housekeeping,Pending,Closed
+INC-2026-0093,2026-05-15,18:00,Night,Workshop,Hauling & Logistics,Electrical,Minor,No Injury,No,Fatigue,Equipment repair,Closed
+INC-2026-0094,2026-05-16,04:00,Night,Processing Plant,Hauling & Logistics,Manual Handling,Moderate,Medical Treatment,No,Poor lighting/visibility,Pending,Closed
+INC-2026-0095,2026-05-16,06:45,Day,Processing Plant,Hauling & Logistics,Equipment-Related,Minor,No Injury,No,Fatigue,Equipment repair,Closed
+INC-2026-0096,2026-05-20,19:30,Night,Crusher Station,Surface Mining,Struck by Object,Minor,First Aid,No,Poor lighting/visibility,Equipment repair,Closed
+INC-2026-0097,2026-05-20,22:30,Night,Pit North,Engineering & Maintenance,Struck by Object,Moderate,First Aid,No,PPE not worn,Supervision increased,Closed
+INC-2026-0098,2026-05-21,10:45,Day,Processing Plant,Underground Production,Manual Handling,Minor,No Injury,No,Inadequate supervision,Pending,Closed
+INC-2026-0099,2026-05-21,22:45,Night,Shaft 1 - Level 12,Underground Production,Chemical Exposure,Moderate,Medical Treatment,Yes,PPE not worn,Retraining,Closed
+INC-2026-0100,2026-05-22,07:00,Day,Crusher Station,Hauling & Logistics,Manual Handling,Minor,No Injury,No,Procedure not followed,Barricading / signage,Closed
+INC-2026-0101,2026-05-25,03:15,Night,Crusher Station,Processing Plant,Struck by Object,Moderate,Medical Treatment,Yes,Equipment failure,Retraining,Closed
+INC-2026-0102,2026-05-28,00:15,Night,Shaft 1 - Level 12,Processing Plant,Slip/Trip/Fall,Minor,First Aid,No,Fatigue,Pending,Closed
+INC-2026-0103,2026-05-28,03:30,Night,Shaft 1 - Level 12,Processing Plant,Struck by Object,Major,Serious Injury,Yes,Inadequate training,Barricading / signage,Closed
+INC-2026-0104,2026-05-28,12:00,Day,Haul Road,Engineering & Maintenance,Struck by Object,Minor,First Aid,No,Fatigue,Barricading / signage,Closed
+INC-2026-0105,2026-05-30,18:45,Night,Crusher Station,Hauling & Logistics,Slip/Trip/Fall,Minor,First Aid,No,Inadequate training,Barricading / signage,Closed
+INC-2026-0106,2026-05-31,22:45,Night,Haul Road,Processing Plant,Manual Handling,Minor,No Injury,No,Fatigue,Retraining,Closed
+INC-2026-0107,2026-06-01,07:00,Day,Processing Plant,Underground Production,Vehicle Collision,Minor,No Injury,No,Fatigue,Retraining,Closed
+INC-2026-0108,2026-06-03,17:30,Day,Shaft 1 - Level 12,Drilling & Blasting,Electrical,Moderate,Medical Treatment,No,Poor housekeeping,Pending,Closed
+INC-2026-0109,2026-06-04,16:30,Day,Processing Plant,Surface Mining,Manual Handling,Minor,First Aid,No,PPE not worn,Retraining,Closed
+INC-2026-0110,2026-06-11,03:15,Night,Pit South,Drilling & Blasting,Chemical Exposure,Moderate,Serious Injury,Yes,Fatigue,Procedure revision,Closed
+INC-2026-0111,2026-06-12,12:15,Day,Pit South,Drilling & Blasting,Electrical,Moderate,Medical Treatment,Yes,Inadequate training,Barricading / signage,Closed
+INC-2026-0112,2026-06-13,14:15,Day,Processing Plant,Underground Production,Manual Handling,Moderate,Medical Treatment,No,Inadequate training,Equipment repair,Closed
+INC-2026-0113,2026-06-13,17:45,Day,Pit South,Engineering & Maintenance,Chemical Exposure,Moderate,Medical Treatment,No,Poor housekeeping,Retraining,Closed
+INC-2026-0114,2026-06-14,10:30,Day,Pit North,Drilling & Blasting,Chemical Exposure,Minor,No Injury,No,Inadequate supervision,Supervision increased,Closed
+INC-2026-0115,2026-06-14,18:45,Night,Pit North,Surface Mining,Equipment-Related,Minor,First Aid,No,Inadequate supervision,Procedure revision,Closed
+INC-2026-0116,2026-06-16,07:45,Day,Pit North,Underground Production,Chemical Exposure,Moderate,Medical Treatment,Yes,Inadequate training,Pending,Closed
+INC-2026-0117,2026-06-17,09:45,Day,Workshop,Underground Production,Fall of Ground,Minor,First Aid,No,Inadequate supervision,Pending,Closed
+INC-2026-0118,2026-06-18,11:15,Day,Haul Road,Engineering & Maintenance,Fall of Ground,Moderate,Medical Treatment,Yes,Unsafe ground conditions,Pending,Closed
+INC-2026-0119,2026-06-18,22:15,Night,Pit South,Processing Plant,Dust/Noise Exposure,Moderate,Medical Treatment,Yes,Poor housekeeping,Procedure revision,Closed
+INC-2026-0120,2026-06-27,03:45,Night,Shaft 2 - Level 8,Underground Production,Dust/Noise Exposure,Critical,Serious Injury,Yes,Poor housekeeping,Retraining,Closed
+INC-2026-0121,2026-06-28,07:30,Day,Shaft 1 - Level 12,Engineering & Maintenance,Struck by Object,Minor,First Aid,No,Equipment failure,Pending,Closed
+INC-2026-0122,2026-06-29,16:15,Day,Haul Road,Engineering & Maintenance,Struck by Object,Minor,No Injury,No,Fatigue,Pending,Closed
+INC-2026-0123,2026-07-01,16:45,Day,Pit South,Underground Production,Slip/Trip/Fall,Minor,No Injury,No,Unsafe ground conditions,Supervision increased,Closed
+INC-2026-0124,2026-07-04,05:45,Night,Haul Road,Surface Mining,Struck by Object,Moderate,Medical Treatment,Yes,Fatigue,Barricading / signage,Closed
+INC-2026-0125,2026-07-04,18:15,Night,Workshop,Processing Plant,Manual Handling,Minor,First Aid,No,Procedure not followed,Procedure revision,Closed
+INC-2026-0126,2026-07-05,03:15,Night,Shaft 2 - Level 8,Drilling & Blasting,Fall of Ground,Minor,First Aid,No,Inadequate training,Pending,Closed
+INC-2026-0127,2026-07-06,03:45,Night,Haul Road,Underground Production,Electrical,Moderate,Medical Treatment,Yes,Procedure not followed,Equipment repair,Closed
+INC-2026-0128,2026-07-12,21:00,Night,Processing Plant,Processing Plant,Equipment-Related,Minor,First Aid,No,Inadequate training,Equipment repair,Closed
+INC-2026-0129,2026-07-14,03:00,Night,Haul Road,Drilling & Blasting,Manual Handling,Minor,First Aid,No,Inadequate training,Barricading / signage,Closed
+INC-2026-0130,2026-07-14,10:00,Day,Workshop,Underground Production,Slip/Trip/Fall,Minor,No Injury,No,PPE not worn,Supervision increased,Closed
+INC-2026-0131,2026-07-15,01:00,Night,Processing Plant,Underground Production,Slip/Trip/Fall,Minor,No Injury,No,Inadequate supervision,Procedure revision,Closed
+INC-2026-0132,2026-07-16,00:00,Night,Processing Plant,Drilling & Blasting,Fall of Ground,Moderate,Medical Treatment,Yes,Inadequate supervision,Supervision increased,Closed
+INC-2026-0133,2026-07-17,17:45,Day,Shaft 1 - Level 12,Surface Mining,Dust/Noise Exposure,Moderate,Medical Treatment,Yes,Poor housekeeping,Supervision increased,Closed
+INC-2026-0134,2026-07-18,09:30,Day,Haul Road,Surface Mining,Vehicle Collision,Minor,First Aid,No,Inadequate supervision,Procedure revision,Closed
+INC-2026-0135,2026-07-19,01:00,Night,Processing Plant,Underground Production,Electrical,Minor,First Aid,No,Inadequate supervision,Pending,Closed
+INC-2026-0136,2026-07-19,02:45,Night,Shaft 1 - Level 12,Surface Mining,Struck by Object,Minor,No Injury,No,Inadequate supervision,Retraining,Closed
+INC-2026-0137,2026-07-20,00:30,Night,Pit South,Hauling & Logistics,Manual Handling,Minor,No Injury,No,Inadequate supervision,Pending,Closed
+INC-2026-0138,2026-07-20,07:00,Day,Workshop,Drilling & Blasting,Struck by Object,Minor,First Aid,No,Inadequate training,Retraining,Closed
+INC-2026-0139,2026-07-23,06:45,Day,Haul Road,Underground Production,Fire/Explosion,Minor,No Injury,No,Inadequate training,Supervision increased,Closed
+INC-2026-0140,2026-07-25,20:00,Night,Shaft 1 - Level 12,Engineering & Maintenance,Electrical,Minor,Medical Treatment,Yes,Unsafe ground conditions,Procedure revision,Closed
+INC-2026-0141,2026-07-30,10:30,Day,Pit North,Processing Plant,Manual Handling,Minor,First Aid,No,Poor lighting/visibility,Supervision increased,Closed
+INC-2026-0142,2026-07-30,22:45,Night,Haul Road,Underground Production,Electrical,Minor,First Aid,No,Inadequate training,Pending,Closed
+INC-2026-0143,2026-07-31,17:15,Day,Workshop,Engineering & Maintenance,Manual Handling,Minor,First Aid,No,Unsafe ground conditions,Equipment repair,Closed
+INC-2026-0144,2026-08-03,02:15,Night,Workshop,Engineering & Maintenance,Equipment-Related,Minor,No Injury,No,Equipment failure,Equipment repair,Open
+INC-2026-0145,2026-08-04,17:00,Day,Crusher Station,Surface Mining,Manual Handling,Minor,No Injury,No,Equipment failure,Barricading / signage,Open
+INC-2026-0146,2026-08-06,00:15,Night,Haul Road,Underground Production,Chemical Exposure,Moderate,Serious Injury,No,Procedure not followed,Barricading / signage,Under Investigation
+INC-2026-0147,2026-08-07,22:00,Night,Shaft 1 - Level 12,Surface Mining,Struck by Object,Minor,First Aid,No,PPE not worn,Pending,Under Investigation
+INC-2026-0148,2026-08-08,16:30,Day,Pit South,Engineering & Maintenance,Slip/Trip/Fall,Moderate,Medical Treatment,Yes,Inadequate supervision,Equipment repair,Open
+INC-2026-0149,2026-08-11,19:00,Night,Processing Plant,Hauling & Logistics,Slip/Trip/Fall,Minor,First Aid,No,Poor lighting/visibility,Procedure revision,Closed
+INC-2026-0150,2026-08-14,03:00,Night,Haul Road,Underground Production,Fall of Ground,Minor,No Injury,No,Equipment failure,Equipment repair,Under Investigation
+INC-2026-0151,2026-08-17,01:45,Night,Processing Plant,Engineering & Maintenance,Fall of Ground,Moderate,Medical Treatment,Yes,Poor lighting/visibility,Retraining,Under Investigation
+INC-2026-0152,2026-08-17,02:45,Night,Processing Plant,Drilling & Blasting,Dust/Noise Exposure,Major,Serious Injury,Yes,PPE not worn,Supervision increased,Open
+INC-2026-0153,2026-08-17,19:30,Night,Pit North,Processing Plant,Equipment-Related,Minor,Medical Treatment,Yes,Unsafe ground conditions,Procedure revision,Under Investigation
+INC-2026-0154,2026-08-19,00:30,Night,Workshop,Surface Mining,Electrical,Minor,First Aid,No,Fatigue,Pending,Closed
+INC-2026-0155,2026-08-19,20:15,Night,Pit North,Surface Mining,Chemical Exposure,Minor,First Aid,No,Fatigue,Procedure revision,Under Investigation
+INC-2026-0156,2026-08-22,22:15,Night,Workshop,Surface Mining,Electrical,Minor,Medical Treatment,Yes,PPE not worn,Procedure revision,Closed
+INC-2026-0157,2026-08-27,06:45,Day,Crusher Station,Surface Mining,Dust/Noise Exposure,Critical,Serious Injury,Yes,Fatigue,Retraining,Open
+INC-2026-0158,2026-08-29,02:00,Night,Processing Plant,Underground Production,Chemical Exposure,Moderate,First Aid,No,Inadequate supervision,Equipment repair,Under Investigation
+INC-2026-0159,2026-08-30,00:00,Night,Haul Road,Processing Plant,Manual Handling,Minor,No Injury,No,Poor housekeeping,Barricading / signage,Closed
+INC-2026-0160,2026-08-30,21:30,Night,Crusher Station,Engineering & Maintenance,Equipment-Related,Minor,Medical Treatment,No,Unsafe ground conditions,Procedure revision,Closed
+INC-2026-0161,2026-09-03,11:15,Day,Haul Road,Engineering & Maintenance,Chemical Exposure,Moderate,Medical Treatment,Yes,Poor housekeeping,Procedure revision,Under Investigation
+INC-2026-0162,2026-09-05,03:15,Night,Pit North,Surface Mining,Slip/Trip/Fall,Major,Serious Injury,Yes,Inadequate supervision,Retraining,Under Investigation
+INC-2026-0163,2026-09-05,20:45,Night,Shaft 2 - Level 8,Drilling & Blasting,Electrical,Minor,First Aid,No,Poor lighting/visibility,Procedure revision,Under Investigation
+INC-2026-0164,2026-09-05,23:00,Night,Workshop,Drilling & Blasting,Vehicle Collision,Minor,First Aid,No,Inadequate supervision,Equipment repair,Under Investigation
+INC-2026-0165,2026-09-07,12:15,Day,Processing Plant,Processing Plant,Vehicle Collision,Minor,No Injury,No,Unsafe ground conditions,Retraining,Under Investigation
+INC-2026-0166,2026-09-07,15:45,Day,Shaft 2 - Level 8,Drilling & Blasting,Manual Handling,Minor,No Injury,No,PPE not worn,Procedure revision,Closed
+INC-2026-0167,2026-09-08,16:00,Day,Pit South,Surface Mining,Vehicle Collision,Minor,First Aid,No,PPE not worn,Barricading / signage,Open
+INC-2026-0168,2026-09-09,18:00,Night,Pit North,Underground Production,Fall of Ground,Moderate,Medical Treatment,Yes,Inadequate training,Retraining,Open
+INC-2026-0169,2026-09-11,01:00,Night,Pit North,Underground Production,Manual Handling,Critical,Serious Injury,Yes,Inadequate supervision,Retraining,Under Investigation
+INC-2026-0170,2026-09-11,14:00,Day,Workshop,Drilling & Blasting,Manual Handling,Minor,First Aid,No,Inadequate training,Pending,Open
+INC-2026-0171,2026-09-14,17:45,Day,Pit South,Engineering & Maintenance,Chemical Exposure,Minor,No Injury,No,PPE not worn,Pending,Under Investigation
+INC-2026-0172,2026-09-15,10:15,Day,Shaft 2 - Level 8,Processing Plant,Manual Handling,Minor,No Injury,No,Poor lighting/visibility,Retraining,Closed
+INC-2026-0173,2026-09-16,04:30,Night,Shaft 1 - Level 12,Hauling & Logistics,Struck by Object,Minor,First Aid,No,Fatigue,Retraining,Open
+INC-2026-0174,2026-09-17,21:00,Night,Pit South,Processing Plant,Chemical Exposure,Moderate,Serious Injury,Yes,Fatigue,Retraining,Under Investigation
+INC-2026-0175,2026-09-20,09:00,Day,Pit South,Underground Production,Chemical Exposure,Minor,No Injury,No,Poor housekeeping,Equipment repair,Open
+INC-2026-0176,2026-09-20,09:45,Day,Workshop,Underground Production,Slip/Trip/Fall,Minor,First Aid,No,Inadequate supervision,Pending,Under Investigation
+INC-2026-0177,2026-09-23,23:00,Night,Shaft 1 - Level 12,Underground Production,Slip/Trip/Fall,Minor,No Injury,No,Equipment failure,Retraining,Closed
+INC-2026-0178,2026-09-24,02:45,Night,Pit South,Hauling & Logistics,Fire/Explosion,Major,Medical Treatment,No,Inadequate supervision,Retraining,Under Investigation
+INC-2026-0179,2026-09-24,07:30,Day,Crusher Station,Underground Production,Equipment-Related,Minor,Medical Treatment,No,Poor housekeeping,Procedure revision,Closed
+INC-2026-0180,2026-09-25,10:15,Day,Workshop,Hauling & Logistics,Chemical Exposure,Minor,No Injury,No,Inadequate training,Supervision increased,Open
+INC-2026-0181,2026-09-30,06:45,Day,Processing Plant,Underground Production,Vehicle Collision,Moderate,Medical Treatment,Yes,Inadequate training,Barricading / signage,Open
+INC-2026-0182,2024-02-03,1,Day,Surface,40,brnbhk,Moderate,f2r4,Yes,rc24,f2r,Under Investigation
